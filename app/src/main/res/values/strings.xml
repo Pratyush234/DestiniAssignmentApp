@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DestiniAssignmentApp</string>
+    <string name="question1_name">There lived a creature once who had the powers of space and time. He had the ultimate ability to stop time in a sphere-like structure which he could use to bend time to his own free will</string>
+    <string name="question2_name">The creature was dark blue in colour and had no face, and therefore was infamously called the Faceless Void. </string>
+    <string name="question3_name">But he was known to have been murdered by his own brethren for using his powers for evil</string>
+    <string name="answer11_name">I want to know more</string>
+    <string name="answer12_name">What is this goddamn story?</string>
+    <string name="answer21_name">I wanna continue</string>
+    <string name="answer22_name">I wanna quit this story</string>
+    <string name="answer31_name">GG</string>
+    <string name="answer32_name">GG</string>
+
+
+</resources>
